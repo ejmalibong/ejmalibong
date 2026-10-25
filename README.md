@@ -115,10 +115,6 @@ I'm a Full Stack Software Engineer who enjoys turning complex business requireme
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ejmalibong&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ejmalibong&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
